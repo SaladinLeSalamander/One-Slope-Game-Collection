@@ -1,0 +1,71 @@
+/*Body*/
+body {
+
+	background-color: rgb(20, 52, 170);
+}
+/* General Property */
+
+button {
+	background-color: red ;
+	color: white;
+}
+
+p, h2, h1, h3, h4, h5, h6 {
+	
+	color: white;
+}
+
+*{
+	color: white;
+}
+
+/*Specific General*/
+
+/*Header*/
+div.Header {
+background-color: rgba(0, 0, 0, 1);
+}
+div.Tab{
+background-color: red;	
+}
+
+#TabButton:hover {
+	background-color: white;
+	color: red;
+ }
+
+div.HeadLogo{
+color: white;
+}
+
+#ThemeMode{ width: 40px; height: 40px }
+img.logo {height: 80px; width: 80px;}
+/*Title*/
+/*Article*/
+
+div.Block:nth-child(odd){
+	background-color: rgb(20, 20, 20);
+}
+
+div.Block:nth-child(even){
+	background-color: rgb(52, 170, 47);
+}
+
+/*	Contact Us*/
+#table
+{	
+
+	background-color: rgba(0,0,0,0.0);
+}
+
+/*Footer*/
+.FooterBlock
+{
+
+	background-color:  rgb(0,0,0);
+}
+
+
+
+
+

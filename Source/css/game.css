@@ -1,0 +1,149 @@
+html.game{ min-width: 75em; }
+body{
+	
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;}
+	
+body.Minecraft{
+	background-image: url("http://localhost/One%20Slope/Source/img/mcbg.png");}
+body.Subnautica{
+	background-image: url("http://localhost/One%20Slope/Source/img/subbg.jpg");}
+body.Mindustry{
+	background-image: url("http://localhost/One%20Slope/Source/img/Mindustrybg.jpg");
+}
+body.CSGO{
+	background-image: url("http://localhost/One%20Slope/Source/img/csgobg.jpg");
+}
+body.Fornite{
+	background-image: url("http://localhost/One%20Slope/Source/img/fortnitebg.jpg");
+}
+body.PUBG{
+	background-image: url("http://localhost/One%20Slope/Source/img/pubgbg.jpg");
+}
+body.A9{
+	background-image: url("http://localhost/One%20Slope/Source/img/a9bg.jpg");
+}
+body.NFSHeat{
+	background-image: url("http://localhost/One%20Slope/Source/img/nfshbg.jpg");
+}
+body.FH5{
+	background-image: url("http://localhost/One%20Slope/Source/img/fh5bg.jpg");
+}
+
+*{
+	text-align: left;
+
+}
+
+table td, table td {
+    vertical-align: top;
+}
+
+#jsGameDescription, #jsGameWho{
+text-align: left !important;
+font-size: 20px !important;
+}
+
+.tags {
+	color: red;
+}
+
+.titleBox{
+
+}
+
+.exhibit{
+	margin-top:  262px;
+	margin-bottom:262px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 75%;
+	background-color: rgba(0, 0, 0, 0.6);
+}
+
+.exhibit2{
+	margin-top:  131px;
+	margin-bottom:262px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 75%;
+	background-color: rgba(0, 0, 0, 0.6);}
+
+#exTable{
+	margin: 20px;
+	width: 90%;
+	font-size: 20px;
+}
+
+#exTable2{
+	margin: 20px;
+	width: 90%;
+	font-size: 20px;
+	text-align: center;
+}
+
+#Title{
+	font-size: 50px;
+}
+
+.exButton {
+	
+	min-height: 50px; min-width: 250px; max-width: 300px;
+}
+
+#centered { vertical-align:middle; text-align:center; }
+#centered img { display:block; margin:0 auto; }
+
+#grandTag
+{
+	display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: flex-start;
+
+}
+
+.dropdown-content2 {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 250px;
+  text-align: left;
+  font-size: 15px;
+  z-index: 1;
+
+ 
+}
+
+.dropdown-content2 a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+#suggestion{
+	font-size:15px; 
+	text-align: left;
+	font-style: italic;
+}
+
+a.active {
+	color:red;
+	text-decoration: underline;
+}
+
+.dropdown-content2 a:hover {background-color: #ddd;}
+
+.TabGrid2:hover .dropdown-content2 {display: block;}
+
+.TabGrid2:hover .exButton {background-color:white; color: red;}
+
+/*Picture*/
+
+img.exPic
+{
+	height: 383px;
+	width: 255px;
+}

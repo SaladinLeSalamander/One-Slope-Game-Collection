@@ -1,0 +1,70 @@
+/*Body*/
+body {
+	background-color: rgb(135, 149, 250);
+}
+/* General Property */
+
+button {
+	background-color: lightskyblue ;
+	color: white;
+}
+
+
+
+*{
+	color: black;
+}
+
+/*Specific General*/
+
+/*Header*/
+div.Header {
+background-color: rgba(255, 255, 255, 1);
+}
+div.Tab{
+background-color: lightskyblue;	
+}
+
+#TabButton:hover {
+	background-color: white;
+	color: lightskyblue;
+ }
+
+div.HeadLogo{
+color: black;
+}
+
+#ThemeMode{ width: 40px; height: 40px }
+img.logo {height: 80px; width: 80px;}
+/*Title*/
+/*Article*/
+
+div.Block:nth-child(odd){
+	background-color: rgb(235, 235, 235);
+}
+
+div.Block:nth-child(even){
+	background-color: rgb(149, 250, 135);
+}
+
+/*	Contact Us*/
+#table
+{	
+
+	background-color: rgba(0,0,0,0.0);
+}
+
+/*Footer*/
+.FooterBlock
+{
+	background-color:  rgb(0,0,0);
+}
+
+#Light
+{
+	color: white;
+}
+
+
+
+

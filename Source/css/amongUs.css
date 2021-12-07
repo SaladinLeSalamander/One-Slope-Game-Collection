@@ -1,0 +1,252 @@
+body{
+	background-image: url(http://localhost/One%20Slope/Source/img/gamingbg3.png);
+
+}
+
+body.sholeh{
+	background-image: url(http://localhost/One%20Slope/Source/img/sholehbg.jpg);
+}
+
+body.divessh{
+	background-image: url(http://localhost/One%20Slope/Source/img/divesshbg.jpg);
+}
+.among-us-block{
+	margin-left: 9.5%;
+	margin-right: 9.5%;
+	min-width: 80%;
+	margin-top: 2%;
+}
+div.among-us-block:first-of-type{
+	margin-top: 5%;
+}
+div.among-us-block:last-of-type{
+	margin-bottom: 5%;
+}
+
+p, h2 
+{
+	padding: 3%;
+	padding-top:10px ;
+	padding-bottom: 10px;
+}
+p
+{
+	font-size: 25px;
+	margin: 0% !important;
+}
+h2{
+	font-size: 70px;
+	margin: 0% !important;
+	
+}
+.among-us-block:nth-child(even) {
+	
+	background-color: rgba(0, 0, 0,0.9);
+	
+}
+.among-us-block:nth-child(odd) {
+	
+	background-color: rgba(200,235,255,0.1);
+	
+}
+
+#left {
+	text-align: left !important;
+	margin: 2%;
+}
+
+
+#background{
+	background-image: url(http://localhost/One%20Slope/Source/img/gamingbg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+	padding-top: 20%;
+	padding-left: 20%;
+	padding-right: 20%;
+
+}
+
+.backgroundpfp{
+	padding-top: 20%;
+	padding-left: 2%;
+	padding-right: 95%;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#Wahid {
+	background-image: url(http://localhost/One%20Slope/Source/img/gamingbg.jpg);
+}
+
+#Sholeh {
+	background-image: url(http://localhost/One%20Slope/Source/img/Gorou.jfif);
+}
+
+#Divessh{
+	background-image: url(http://localhost/One%20Slope/Source/img/gamingbg.jpg);
+}
+
+#team-pfp {
+	
+	border-radius: 50%;
+	position: relative;
+	
+	max-width: 200px;
+	max-height: 200px;
+	z-index: 1;
+}
+
+#pfp {
+	width: 150px;
+	height: 150px;
+	border-radius: 5px;	
+}
+
+#main-pfp {
+	max-width: 210px;
+	max-height: 210px;
+	border-radius: 5px;
+	z-index: 1;
+	margin-right: 0%;
+}
+
+h3{
+	font-size: 50px;
+	text-align: center;
+	padding: 3%;
+	margin: 0% !important;
+}
+
+
+Div{
+	text-align: center;
+	
+}
+
+
+table {
+	
+	table-layout: auto;
+	width: 100%;
+	border: 2px solid #ddd;
+	border-radius: 5px;
+	transition: 0.4s;
+
+}
+
+table:hover {
+	border: 2px solid red;
+	color: red;
+}
+
+.pfp-name{
+	vertical-align: middle;
+	font-size: 30px;
+	text-align: left;
+	font-weight: bold;
+
+}
+
+.social-link-content{
+	vertical-align: middle;
+	line-height: 25px;
+}
+
+
+.distance{
+	padding-left: 4%;
+	padding-right: 4%;
+	padding-bottom: 2%;
+}
+
+.namecard{
+	border: 2px solid red;
+	border-radius: 50px 0px ;
+	padding: 40px;
+	width: 60%;
+	background-color: rgba(0, 0, 0);
+}
+
+div.table-namecard{padding:  40px; padding-top: 10px;}
+
+table.table-namecard{
+	border: 0px solid white !important;
+}
+
+td.table-namecard{
+	height: 35px;
+}
+	
+	
+.pfp-pic{
+	vertical-align: middle;
+	width: 20%;
+	height: 20%;
+	table-layout: fixed;
+	text-align: center;
+}
+
+.social-link-logo{
+	vertical-align: middle;
+	width: 10%;
+	height: 10%;
+	table-layout: fixed;
+	text-align: center;
+}
+
+.pfp-pic-detail{
+	width: 50%;
+	height: 50%;
+	border-radius: 20%;
+}
+
+#members:first-of-type {
+	padding-top: 2%;
+}
+
+#members:last-of-type {
+	padding-bottom: 2%;
+}
+
+#members{
+	padding-top: 1%;
+	padding-left: 2%;
+	padding-right: 2%;
+}
+
+.flexing{
+	border: 2px solid red;
+	border-radius: 10px;
+	animation-name: rainbow-dash;
+	animation-duration: 17.5s;
+	animation-iteration-count: infinite;
+	animation-timing-function: ease-in-out;
+}
+
+@keyframes rainbow-dash{
+	14.3% {border: 2px solid orange;}
+	28.6% {border: 2px solid yellow;}
+	42.9%{border: 2px solid green;}
+	57.2%{border: 2px solid blue;}
+	71.5%{border: 2px solid indigo;}
+	85.9%{border: 2px solid purple;}
+	100% {border: 2px solid red;}
+	
+
+
+}
+
+.flexing:hover{
+	border: 2px solid red;
+}
+
+.hover-link:hover
+{
+	color: red;
+}
+
+
+      
+      
+

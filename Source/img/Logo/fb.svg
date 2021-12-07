@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="100"
+   height="100"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Viva_Air_logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title122">Facebook icon </title>
+  <defs
+     id="defs2">
+    <linearGradient
+       id="SVGID_1_"
+       gradientUnits="userSpaceOnUse"
+       x1="-277.375"
+       y1="406.60181"
+       x2="-277.375"
+       y2="407.5726"
+       gradientTransform="matrix(97.929167,0,0,-97.385164,27213.401,39692.704)">
+      <stop
+         offset="0"
+         style="stop-color:#0062E0"
+         id="stop4" />
+      <stop
+         offset="1"
+         style="stop-color:#19AFFF"
+         id="stop6" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4"
+     inkscape:cx="91.375"
+     inkscape:cy="46"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="878"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="1"
+     height="24px"
+     scale-x="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:date>1 nov 2021</dc:date>
+        <cc:license
+           rdf:resource="http://scripts.sil.org/OFL" />
+        <dc:title>Facebook icon </dc:title>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://scripts.sil.org/OFL">
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Notice" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       class="st0"
+       d="M 42.216149,98.637972 C 18.957976,94.475988 1.330729,74.400511 1.330729,50.163039 c 0,-26.93052 22.034061,-48.9645806 48.964576,-48.9645806 26.930517,0 48.964587,22.0340606 48.964587,48.9645806 0,24.237472 -17.627259,44.312949 -40.885431,48.474933 L 55.681405,96.434566 H 44.909201 Z"
+       id="path9"
+       style="fill:url(#SVGID_1_);stroke-width:2.44823" />
+    <path
+       class="st1"
+       d="M 69.391492,63.873126 71.594898,50.163039 H 58.61928 v -9.548096 c 0,-3.917164 1.46894,-6.855041 7.344691,-6.855041 h 6.365396 V 21.273933 c -3.427521,-0.489676 -7.344685,-0.979288 -10.772211,-0.979288 -11.261851,0 -19.096181,6.855038 -19.096181,19.096189 V 50.163039 H 30.219829 v 13.710087 h 12.241146 v 34.520026 c 2.693049,0.489677 5.386101,0.734421 8.079156,0.734421 2.693049,0 5.386104,-0.244849 8.079149,-0.734421 V 63.873126 Z"
+       id="path11"
+       style="fill:#ffffff;stroke-width:2.44823" />
+  </g>
+</svg>

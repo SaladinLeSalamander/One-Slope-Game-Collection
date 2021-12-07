@@ -1,0 +1,252 @@
+/*Body*/
+body {
+	margin: 0%;
+	 
+
+}
+/* General Property */
+a {
+  
+  text-decoration: none;
+}
+html {
+	min-width: 57em;
+	scroll-behavior: smooth;
+
+}
+
+button {
+	font-size: 20px;
+	border: none;
+	
+	text-align: center;
+	padding-right: 40px;
+	padding-left:  40px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	display: inline-block;
+	cursor: pointer;
+}
+h1 {
+	font-size: 120px;
+	font-weight: bold;
+}
+h2 {
+	font-size: 60px;
+}
+
+p {
+
+	font-size: 30px;
+}
+
+p, h2, h1, h3, h4, h5, h6 {
+	text-align: center;
+	
+}
+*{
+	font-family: Arial, Helvetic, sans-serif ;
+	
+	
+}
+
+
+/*Header*/
+div.Header {
+width: 100%;
+
+top: 0px;
+display: flex;
+align-content: center;
+align-items: center;
+justify-content: space-between;
+}
+
+div.HeadLogo{
+text-align: left;
+padding: auto;
+color: white;
+margin-left: 5px;
+}
+
+#HeadRight{
+	display: flex;
+	float: right;
+	padding-left: 20;
+	align-items: center;
+}
+
+#HeadButton
+{
+	background-color: rgba(0, 0, 0, 0.0);
+	padding: 0;
+	font-size: 15px;}
+
+#ThemeMode{ 
+	width: 40px; height: 40px
+	cursor: pointer;
+ }
+img.logo {height: 80px; width: 80px;}
+
+
+
+/*Tab*/
+
+div.Tab {
+width: 100%;
+
+top: 96.88px;
+display: flex;
+align-content: center;
+align-items: center;
+justify-content: space-between;
+font-size: 10px;
+
+}
+
+#TabButton
+{
+	background-color: rgba(0, 0, 0, 0.0);
+		padding-left: 16px;
+	padding-right: 16px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	font-size: 16px;}
+
+.TabGrid{
+  text-align: center;
+  position: relative;
+  display: inline-block;
+}
+
+
+
+/*w3 reference*/
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  text-align: left;
+  font-size: 15px;
+  z-index: 1;
+
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.FlexG{ width:235px; margin-left: auto; margin-right: auto;}
+.FlexBut{width: 235px }
+.dropdown-content a:hover {background-color: #ddd;}
+
+.TabGrid:hover .dropdown-content {display: block;}
+
+.TabGrid:hover .TabButton {background-color:white;}
+
+.FlexG:hover .FlexBut {background-color: white; color: red; }
+
+/*Title*/
+
+div.TitleBox
+{
+ padding: 14%;
+ text-align: center;
+ background-image:  url("../../Source/img/bgdayblur.png"); 
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	
+}
+
+
+button.SubTitleText{
+	font-size: 25px;
+	padding-right: 80px;
+	padding-left:  80px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#titleBGV{
+	position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%; 
+  min-height: 100%;
+  object-fit: cover;
+  z-index: -1;
+
+}
+
+/*Article*/
+div.Block
+{
+	width: 100%;
+	margin: auto;
+
+}
+
+div.Article
+{
+	margin-left: 20%;
+	margin-right: 20%;
+	text-align: center;
+	padding-bottom: 5%;
+	padding-top: 5%;
+}
+
+
+/*	Contact Us*/
+
+#table
+{	
+	padding: 0%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	
+}
+
+#ProfilePicture
+{
+height: 200px; width: 200px;
+
+}
+
+/*Footer*/
+.FooterBlock
+{
+	width: 100%;
+	margin: auto;
+
+}
+.FooterArticle
+{
+margin-left: 10%;
+	margin-right: 10%;
+	text-align: center;
+	padding-bottom: 5%;
+	padding-top: 5%;
+
+}
+.FooterContainer{
+	display: grid;
+	grid-template-columns: auto auto auto;
+  
+  
+}
+.FooterGrid{
+	padding: 20px;
+  font-size: 15px;
+  text-align: center;
+}
+
+
+
+

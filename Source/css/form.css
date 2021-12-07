@@ -1,0 +1,130 @@
+.form-article{
+	background-color: rgba(0, 0, 0, 0.9);
+	width: 50%;
+	text-align: center;
+	margin: auto;
+	margin-top: 10%;
+	margin-bottom: 10%;
+	padding: 5%;
+}
+
+form
+{
+	font-size: 20px;
+
+}
+
+#sign-in{
+	width: 400px;
+	margin: auto;
+}
+
+input[type=checkbox]{
+	width: 10%;
+	background-color: rgba(20, 20, 20, 0.9);
+	padding: 20px;
+	cursor: pointer;
+	border: 10px solid red;
+}
+
+option, select, input, textarea
+{
+	background-color: rgba(20, 20, 20, 0.9);
+	border: 2px solid rgba(0, 0, 0, 0.0);
+	padding: 10px;
+	width: 100%;
+	transition: 0.4s;
+}
+
+option:hover, select:hover, input:hover, textarea:hover
+{
+border: 2px solid red;
+
+}
+option:focus, select:focus, input:focus, textarea:focus
+{
+border: 2px solid red;
+padding-top: 12px;
+padding-bottom: 15px;
+background-color: rgba(20, 20, 20, 0.9);
+}
+
+input:-webkit-autofill, input:-webkit-autofill:hover,  input:-webkit-autofill:focus,  input:-webkit-autofill:active
+{
+    -webkit-box-shadow: 0 0 0 30px rgba(20, 20, 20, 0.9) inset !important;
+    -webkit-text-fill-color: white !important;
+}
+
+#note{
+	font-size: 15px;
+	text-align: left;
+	padding-left: 0px;
+}
+textarea{
+	resize: none;
+	height: 100%;
+	font-size: 15px !important;
+	
+}
+
+.js-time{
+	text-align: left !important;
+	font-size: 20px;
+	padding: 0px;
+
+}
+
+.feed-title{
+	text-align: left;
+}
+
+button.feed-title{
+	margin-left: 0%;
+}
+
+h1.feed-title{
+	font-size: 100px;
+	padding: 0px;
+	margin: 0px;
+	padding-top: 4%;
+	padding-bottom: 4%;
+}
+
+h2.feed-title{
+	font-size: 20px;
+	padding: 0px;
+	padding-top: 0%;
+	padding-bottom: 2%;
+}
+
+h3.feed-title{
+	font-size: 18px;
+	padding: 0px;
+	padding-top: 0%;
+	padding-bottom: 2%;
+}
+
+.posted{
+	text-align: left;
+}
+
+h2.posted{
+	font-size: 40px;
+	padding: 0px;
+	padding-top: 0%;
+	padding-bottom: 2%;
+	font-style: bold;
+}
+
+p.posted{
+	font-size: 20px;
+	padding: 0px;
+	padding-top: 0%;
+	padding-bottom: 2%;
+	font-style: normal;
+}
+
+p.form-detail{
+	text-align: left !important;
+}
+
