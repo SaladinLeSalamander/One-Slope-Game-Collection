@@ -13,5 +13,5 @@ Make sure you are at <a href="https://github.com/SaladinLeSalamander/One-Slope-G
 
 <br> or you can click link down below.
 
-<a href="https://github.com/SaladinLeSalamander/One-Slope-Game-Collection/archive/refs/heads/main.zip">Download ZIP</a>
+<div style="background-color:lightgreen; padding:20px;"><a href="https://github.com/SaladinLeSalamander/One-Slope-Game-Collection/archive/refs/heads/main.zip">Download ZIP</a></div>
 
