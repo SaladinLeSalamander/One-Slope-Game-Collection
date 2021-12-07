@@ -3,4 +3,5 @@ This is group assignment made by a temporary assignment group, One Slope. The to
 
 ## One Slope
 One Slope is temporary assignment group, consisted of 3 members.
+
 Assigned for web development subject.
