@@ -7,6 +7,7 @@ One Slope is temporary assignment group, consisted of 3 members.
 Assigned for web development subject.
 
 ## Download Instruction
-<button>Code</button>
+On top-right of the repositories (almost top-right) there is a green button "Code" click it and then click "Download Zip"
+<br> or you can click link down below
 <a href="https://github.com/SaladinLeSalamander/One-Slope-Game-Collection/archive/refs/heads/main.zip">Download ZIP</a>
 
