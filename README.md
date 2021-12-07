@@ -6,4 +6,7 @@ One Slope is temporary assignment group, consisted of 3 members.
 
 Assigned for web development subject.
 
-<a href="https://github.com/SaladinLeSalamander/One-Slope-Game-Collection/archive/refs/heads/main.zip">Click to download</a>
+## Download Instruction
+<button style="background-color:green;">Code</button>
+<a href="https://github.com/SaladinLeSalamander/One-Slope-Game-Collection/archive/refs/heads/main.zip">Download ZIP</a>
+
