@@ -5,3 +5,5 @@ This is group assignment made by a temporary assignment group, One Slope. The to
 One Slope is temporary assignment group, consisted of 3 members.
 
 Assigned for web development subject.
+
+<a href="https://github.com/SaladinLeSalamander/One-Slope-Game-Collection.git">Click to download</a>
